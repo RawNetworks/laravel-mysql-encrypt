@@ -1,5 +1,5 @@
 {
-    "name": "chr15k/laravel-mysql-encrypt",
+    "name": "RawNetworks/laravel-mysql-encrypt",
     "description": "Laravel database encryption using native MySQL functions",
     "keywords": [
         "laravel",
